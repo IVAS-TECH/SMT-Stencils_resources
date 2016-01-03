@@ -10,6 +10,12 @@ Repo to store all none code files and Idas about thesis docs
 
 1.1.1 express
 
+1.1.1.1 midlewares
+
+1.1.1.2 req hadlers (from one to other)
+
+1.1.1.3 error handling
+
 1.2 angular
 
 1.2.1 angular-material
@@ -20,11 +26,11 @@ Repo to store all none code files and Idas about thesis docs
 
 1.4 Compilators (preprocesors)
 
-1.4.1 Stylus
+1.4.1 Stylus (faster styling explain futres wich it provides)
 
-1.4.2 Coffee
+1.4.2 Coffee (coffee and ES6, almost covers it now in ES5) 
 
-1.4.3 Jade
+1.4.3 Jade (forces to write better html code)
 
 1.5 Unit Testing
 
@@ -53,6 +59,8 @@ Repo to store all none code files and Idas about thesis docs
 2.1 REST
 
 2.1.1 Why i didn't used $resources and RestAngular
+
+2.1.2 Error handling and displaying errors
 
 2.2 Dialogs
 
@@ -110,12 +118,9 @@ Repo to store all none code files and Idas about thesis docs
 
 # 2.12 statistics (aslo add it !!!)
 
-2.13 Error handling
-
-2.14 Promises
+2.14 Promises (move it up)
 
 # 2.15 anty DDOS (add it !!!)
 
-2.16 Building procces
-
+2.16 Building procces (move it up)
 
