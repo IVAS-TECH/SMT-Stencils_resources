@@ -28,7 +28,9 @@ Repo to store all none code files and Idas about thesis docs
 
 1.4.1 Stylus (faster styling explain futres wich it provides)
 
-1.4.2 Coffee (coffee and ES6, almost covers it now in ES5) 
+1.4.2 Coffee (coffee and ES6, almost covers it now in ES5) (comparemnet between the two and explain why you droped Babal)
+
+1.4.2.1 Promises 
 
 1.4.3 Jade (forces to write better html code)
 
@@ -49,6 +51,8 @@ Repo to store all none code files and Idas about thesis docs
 1.5.2.2 Jasmine
 
 1.5.3 Compare
+
+1.6 Building procces (move it up)
 
 2. What I've done
 
@@ -80,11 +84,17 @@ Repo to store all none code files and Idas about thesis docs
 
 2.4 reusable views and controllers inheritence
 
-2.4.1 ScopeController
+2.4.1 ScopeController //Why not use service instead -> Need to move data wich I'm not really gona use* only my views need it)
 
 2.4.2 $controller
 
 2.4.3 ivo-include
+
+2.4.4 Progress
+
+2.4.4.1 why not use service instead ^ 
+
+2.4.4.2 how it works
 
 2.5 Configurations
 
@@ -108,7 +118,7 @@ Repo to store all none code files and Idas about thesis docs
 
 2.9.1 order dates displaing
 
-# 2.9.2 order sorting ( add it !!!)
+# 2.9.2 order sorting 
 
 # 2.9.3 status changes (add notifications !!! use setInterval !!!)
 
@@ -116,11 +126,7 @@ Repo to store all none code files and Idas about thesis docs
 
 # 2.11 paypal and stripes conection (add it !!!)
 
-# 2.12 statistics (aslo add it !!!)
-
-2.14 Promises (move it up)
+# 2.12 statistics 
 
 # 2.15 anty DDOS (add it !!!)
-
-2.16 Building procces (move it up)
 
