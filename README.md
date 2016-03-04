@@ -114,19 +114,19 @@ Repo to store all none code files and Idas about thesis docs
 
 2.8 order finalization
 
-# 2.9 order status tracking
+2.9 order status tracking
 
 2.9.1 order dates displaing
 
-# 2.9.2 order sorting 
+2.9.2 order sorting 
 
-# 2.9.3 status changes (add notifications !!! use setInterval !!!)
+2.9.3 status changes
 
-# 2.10 admin actions (add update -> explain how from single view all db can be manipulated _$action$_ !!)
+2.10 admin actions
 
-# 2.11 paypal and stripes conection (add it !!!)
+2.11 statistics 
 
-# 2.12 statistics 
+# 2.12 paypal and stripes conection (add it !!!)
 
-# 2.15 anty DDOS (add it !!!)
+# 2.13 anty DDOS (add it !!!)
 
