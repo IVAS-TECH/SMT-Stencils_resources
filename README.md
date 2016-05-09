@@ -130,3 +130,11 @@ Repo to store all none code files and Idas about thesis docs
 
 # 2.13 anty DDOS (add it !!!)
 
+# TODO
+
+# ALL USED FODLERS SHOULD BE INSIDE [deploy]
+
+# [src/client/order/configuration/base] BaseInterface::isValid should check check filed passed to newlly created Directive that sets it acordingly to name value if is not used by the user !!!
+
+# [src/server/routes/order] BaseHandle should implemnt {put} method wich checks if {req.body.name} and {user.id}  exist !!! 
+
