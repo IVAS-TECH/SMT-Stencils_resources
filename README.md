@@ -134,7 +134,7 @@ Repo to store all none code files and Idas about thesis docs
 
 # ALL USED FODLERS SHOULD BE INSIDE [deploy]
 
-# [src/client/order/configuration/base] BaseInterface::isValid should check check filed passed to newlly created Directive that sets it acordingly to name value if is not used by the user !!!
+# [src/client/order/configuration/base] BaseInterface::isValid should check field passed to newlly created Directive that sets it acordingly to {name} value if is not used by the user !!!
 
-# [src/server/routes/order] BaseHandle should implemnt {put} method wich checks if {req.body.name} and {user.id}  exist !!! 
+# [src/server/routes/order] BaseHandle should implement {put} method wich checks if {req.body.name} and {user.id}  exist !!! 
 
